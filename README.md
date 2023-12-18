@@ -1,13 +1,13 @@
 # -Recursive-parsing-arithmetic-ops
- *
+ 
  * Recursive descent parsing for arithmetic operations
- *
+ 
  * Driver for a very simple Recursive Desent Parser for Arithmetic statements
- *
+ 
  * This program illustrates recursive descent parsing for arithmetic operations
- *
+ 
  * The grammar:
- *
+ 
  * S  =>  { A; } .
  * A  =>  I = E
  * E  =>  T | T (+|-) E
